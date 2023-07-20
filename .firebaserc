@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "readytoworkjapan"
+  },
+  "targets": {
+    "readytoworkjapan": {
+      "hosting": {
+        "t": [
+          "rnd-next-firebase"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
